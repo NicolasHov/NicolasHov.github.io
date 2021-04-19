@@ -18,9 +18,7 @@ This is my personal homepage, you can browse through my:
 
 [Mail](mailto:hovart.nicolas@gmail.com) / [GitHub](https://github.com/NicolasHov) / [Twitter](https://twitter.com/Kola_Hov) / [WeLoveDev](https://nicolas-hovart.welovedevs.com/)
 
-[GPG key]()
-
-[SSH key](<https://raw.githubusercontent.com/NicolasHov/NicolasHov.github.io/master/Nicolas%20HOVART%20(nicolas%40X230)%20%E2%80%93%20id_rsa.pub>)
+[SSH key](https://github.com/NicolasHov.keys)
 
 <br>
 

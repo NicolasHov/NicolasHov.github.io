@@ -1,17 +1,14 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-# Nicolas Hovart
-
 This is my personal homepage, you can browse through my:
 
-[Curriculum Vitae]()
+[Curriculum Vitae](https://nicolashov.github.io/cv/)
 
-[Softwares repositories]()
+[Softwares repositories](https://github.com/NicolasHov?tab=repositories)
 
 <br>
 
@@ -19,11 +16,11 @@ This is my personal homepage, you can browse through my:
 
 [Calendly](https://calendly.com/hovart-nicolas/)
 
-[Mail](mailto:hovart.nicolas@gmail.com) / [GitHub](https://github.com/NicolasHov) / [Twitter](https://twitter.com/Kola_Hov) / WeLoveDev / [Dev.to](http://dev.to)
+[Mail](mailto:hovart.nicolas@gmail.com) / [GitHub](https://github.com/NicolasHov) / [Twitter](https://twitter.com/Kola_Hov) / [WeLoveDev](https://nicolas-hovart.welovedevs.com/)
 
 [GPG key]()
 
-[SSH key]()
+[SSH key](<https://raw.githubusercontent.com/NicolasHov/NicolasHov.github.io/master/Nicolas%20HOVART%20(nicolas%40X230)%20%E2%80%93%20id_rsa.pub>)
 
 <br>
 

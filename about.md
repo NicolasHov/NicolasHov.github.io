@@ -6,9 +6,9 @@ permalink: /cv/
 
 ## Contracts Jobs
 
-- 2020..2021 (3 months) Paris, **Freelancer @ Instant Visio** Development of a skype-like WebApp
+- 2020..2021 (3 months) Paris, **Freelancer @ Instant Visio** Development of a skype-like WebApp [See details](https://github.com/Instant-Visio/InstantVisio-WebApp/issues?q=author%3ANicolasHov+)
 
-- 2020..2021 (6 months) Paris, **Freelancer @ La Boussole** Development of an educative mobile VideoGame about Privacy helping users handle their personal data
+- 2020..2021 (6 months) Paris, **Freelancer @ La Boussole** Development of an educative mobile VideoGame about Privacy helping users handle their personal data [See details](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
 
 - 2020 (3 months) Paris, **Freelancer @ Isograd** Researcher for the development of the company's certification offer
 

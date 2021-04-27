@@ -60,4 +60,4 @@ permalink: /cv/
 
 - **Spoken and written languages** Français••• langue maternelle, English••• fluent
 
-- **Associations** Les Déterminés
+- **Associations** Angoleiros Do Mar (Capoeira), Les Déterminés(entrepreneuriat), Intermèdes Robinson(action sociale)

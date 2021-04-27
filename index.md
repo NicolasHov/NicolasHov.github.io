@@ -60,9 +60,3 @@ Some current work in those organisations:
 - [Revamp of the website The Hacking Project](https://www.thehackingproject.org/) - Ruby On Rails & Now UI (based on Bootstrap 4) - January 2018
 
 - [Projet Lonepod](https://nicolashov.github.io/lonepod/#svg) - JavaScript - June 2017
-
-<br><br><br>
-
-#### About this page
-
-This page is written in Markdown, hosted by GitHub Page, automatically converted to HTML by Jekyll you can find the sources [here](https://github.com/NicolasHov/NicolasHov.github.io).

@@ -14,9 +14,13 @@ This is my personal homepage, you can browse through my:
 
 ## Get to know me...
 
-[Calendly](https://calendly.com/hovart-nicolas/)
+[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me) / [Twitter](https://twitter.com/Kola_Hov)
 
-[Mail](mailto:hovart.nicolas@gmail.com) / [GitHub](https://github.com/NicolasHov) / [Twitter](https://twitter.com/Kola_Hov) / [WeLoveDev](https://nicolas-hovart.welovedevs.com/)
+<br>
+
+### And my work ...
+
+[GitHub](https://github.com/NicolasHov) / [GitLab](https://gitlab.com/NicolasHov)
 
 [SSH key](https://github.com/NicolasHov.keys)
 

@@ -42,11 +42,11 @@ permalink: /cv/
 
 - **Web "front-end"**: React JS••• HTML5••• CSS3••• SASS••• Webpack•••
 
-- **Web "back-end"**: Node.js•••
+- **Web "back-end"**: Node.js••• Ruby On Rails•• ExpressJs•
 
-- **Mobile Development**: React Native•••
+- **Mobile Development**: React Native••
 
-- **HTTP Servers & Databases**: MySQL••• GraphQL•• Firebase••
+- **HTTP Servers & Databases**: MySQL•• GraphQL•• Firebase••
 
 - **OS**: Linux••• MacOS••• Microsoft•••
 

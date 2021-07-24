@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Contracts Jobs
 
-- 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program [See final project of one of my students]
+- 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program [The final project of one of my students](https://youtu.be/MPApUq8bo30?t=428)
 
 - 2020..2021 (3 months) Paris, **Freelancer @ Instant Visio** Development of a skype-like WebApp [See details](https://github.com/Instant-Visio/InstantVisio-WebApp/issues?q=author%3ANicolasHov+)
 

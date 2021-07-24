@@ -59,6 +59,12 @@ Some current work in those organisations:
 
 <br>
 
+## Games
+
+- [A Memory Game](https://nicolashov.github.io/memory_react_fruits/)  - React (functionnal) & NodeJs (for High Scores - not live yet) - June 2021
+
+<br>
+
 ##### [OLD] :
 
 - [Revamp of the website The Hacking Project](https://www.thehackingproject.org/) - Ruby On Rails & Now UI (based on Bootstrap 4) - January 2018

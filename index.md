@@ -28,15 +28,13 @@ This is my personal homepage, you can browse through my:
 
 ## Working in...
 
-Currently freelancing in the working group [newtype()](https://newtype.fr/) of the coop [P//](https://portparallele.com/).
+Currently working as a trainer @ Matrice.io in Full-Stack web developement bootcamp for a public in reconversion
 
 <br>
 
-## Looking for...
+## I usually work in...
 
 **Contract type**: Fixed-term, Freelance, or permanent contract
-
-I'm (mostly) interested in regular remote work (a few times a week)
 
 <br>
 
@@ -69,4 +67,4 @@ Some current work in those organisations:
 
 - [Revamp of the website The Hacking Project](https://www.thehackingproject.org/) - Ruby On Rails & Now UI (based on Bootstrap 4) - January 2018
 
-- [Projet Lonepod](https://nicolashov.github.io/lonepod/#svg) - JavaScript - June 2017
+- [Projet Lonepod - fun](https://nicolashov.github.io/lonepod/#svg) - JavaScript - June 2017

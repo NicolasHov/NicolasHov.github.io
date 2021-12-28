@@ -6,11 +6,14 @@ permalink: /cv/
 
 ## Contracts Jobs
 
+- 2021 (6 months) **Trainer @ Matrice.io** Creation and management of a 3-months training in Full-Stack web developement for a public in reconversion (NodeJs, framework ExpressJs, React Js, database with Sequelize).[See website](https://matrice.io/ecole/fullstack)
+
 - 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program [The final project of one of my students](https://youtu.be/MPApUq8bo30?t=428)
 
 - 2020..2021 (3 months) Paris, **Freelancer @ Instant Visio** Development of a skype-like WebApp [See details](https://github.com/Instant-Visio/InstantVisio-WebApp/issues?q=author%3ANicolasHov+)
 
-- 2020..2021 (6 months) Paris, **Freelancer @ La Boussole** Development of an educative mobile VideoGame about Privacy helping users handle their personal data [See details](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
+- 2020..2021 (6 months) Paris, **Freelancer @ La Boussole** Development of an educative mobile VideoGame about Privacy helping users handle their personal data [See game](https://gaoandblaze.org/) [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
+(Freelancing in the working group [newtype()](https://newtype.fr/) of the coop [P//](https://portparallele.com/))
 
 - 2020 (3 months) Paris, **Freelancer @ Isograd** Researcher for the development of the company's certification offer
 
@@ -32,7 +35,7 @@ permalink: /cv/
 
 - 2016 **Université Paris Descartes** Master's degree, Education and Training - Research Path
 
-- 2012 **ENS & EHESS** Master's degree, Sociology & Statistics
+- 2012 **ENS & EHESS & ENSAE** Master's degree, Sociology & Statistics
 
 - 2011 **Université Denis Diderot (Paris VII)** Bachelor, Applied Mathematics & Social Sciences
 
@@ -48,11 +51,13 @@ permalink: /cv/
 
 - **Mobile Development**: React Native••
 
-- **HTTP Servers & Databases**: MySQL•• GraphQL•• Firebase••
+- **HTTP Servers & Databases**: MySQL•• GraphQL• Firebase•• Sequelize•
 
 - **OS**: Linux••• MacOS••• Microsoft•••
 
 - **Tooling**: Git Common CLI UNIX tools•••
+
+- **NoCode Tools**: Airtable•• Notion•• Zapier• Bubble•
 
 - **Pedagogical environments**: App Inventor••• Thunkable•••
 
@@ -62,4 +67,4 @@ permalink: /cv/
 
 - **Spoken and written languages** Français••• langue maternelle, English••• fluent
 
-- **Associations** Angoleiros Do Mar (Capoeira), Les Déterminés (Club d'affaires), Intermèdes Robinson (Action sociale)
+- **Associations** Les Déterminés (Club d'affaires) - 2020, Intermèdes Robinson (Action sociale) 2014

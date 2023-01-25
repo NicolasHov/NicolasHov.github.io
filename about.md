@@ -8,7 +8,7 @@ permalink: /cv/
 
 - 20022..2023 [Moved to Brussels, Belgium]
 
-- 2021..2022 (15 months) **Trainer @ Matrice.io** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility).[See website](https://matrice.io/ecole/fullstack)
+- 2021..2022 (15 months) Paris, **Trainer @ Matrice.io** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility).[See website](https://matrice.io/ecole/fullstack)
 
 - 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program [The final project of one of my students](https://youtu.be/MPApUq8bo30?t=428)
 
@@ -62,6 +62,8 @@ permalink: /cv/
 - **Tooling**: Git Common CLI UNIX tools••• Postman•• Jest• 
 
 <br>
+
+ Others :
 
 - **NoCode Tools**: Airtable•• Notion•• Zapier• Bubble•
 

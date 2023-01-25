@@ -36,7 +36,7 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 
 ## I usually work in...
 
-**Contract type**: Fixed-term, Freelance, or permanent contrac
+**Contract type**: Fixed-term, Freelance, or permanent contract.
 
 <br>
 

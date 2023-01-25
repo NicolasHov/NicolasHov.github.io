@@ -7,6 +7,9 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# You can use also 'bundle exec jekyll serve --livereload'
+
+# With Nixos you will need to use 'nix-shell -p jekyll bundler' or to use flake.nix
 #
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml

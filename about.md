@@ -6,7 +6,9 @@ permalink: /cv/
 
 ## Contracts Jobs
 
-- 2021 (6 months) **Trainer @ Matrice.io** Creation and management of a 3-months training in Full-Stack web developement for a public in reconversion (NodeJs, framework ExpressJs, React Js, database with Sequelize).[See website](https://matrice.io/ecole/fullstack)
+- 20022..2023 [Moved to Brussels, Belgium]
+
+- 2021..2022 (15 months) **Trainer @ Matrice.io** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility).[See website](https://matrice.io/ecole/fullstack)
 
 - 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program [The final project of one of my students](https://youtu.be/MPApUq8bo30?t=428)
 
@@ -45,21 +47,25 @@ permalink: /cv/
 
 ## Technical skills
 
+- **Languages**: Javascript••• TypeScript•• Python•• Rust•
+
 - **Web "front-end"**: React JS••• HTML5••• CSS3••• SASS••• Webpack•••
 
-- **Web "back-end"**: Node.js••• Ruby On Rails•• ExpressJs•
+- **Web "back-end"**: Node JS••• Express JS••• Ruby On Rails•• Flask•
 
 - **Mobile Development**: React Native••
 
-- **HTTP Servers & Databases**: MySQL•• GraphQL• Firebase•• Sequelize•
+- **HTTP Servers & Databases**: MySQL•• GraphQL• Firebase•• Sequelize• MongoDB•
 
-- **OS**: Linux••• MacOS••• Microsoft•••
+- **OS**: Nixos• Linux••• MacOS••• Microsoft•••
 
-- **Tooling**: Git Common CLI UNIX tools•••
+- **Tooling**: Git Common CLI UNIX tools••• Postman•• Jest• 
+
+<br>
 
 - **NoCode Tools**: Airtable•• Notion•• Zapier• Bubble•
 
-- **Pedagogical environments**: App Inventor••• Thunkable•••
+- **Pedagogical environments**: App Inventor••• Thunkable••• Raspberry•
 
 <br>
 
@@ -67,4 +73,4 @@ permalink: /cv/
 
 - **Spoken and written languages** Français••• langue maternelle, English••• fluent
 
-- **Associations** Les Déterminés (Club d'affaires) - 2020, Intermèdes Robinson (Action sociale) 2014
+- **Associations** Les Déterminés (entrepreneuriat pour tous.tes) - 2020, Intermèdes Robinson (Action sociale) 2014

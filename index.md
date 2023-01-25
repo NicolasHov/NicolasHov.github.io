@@ -14,7 +14,9 @@ This is my personal homepage, you can browse through my:
 
 ## Get to know me...
 
-[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me) / [Twitter](https://twitter.com/Kola_Hov)
+[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me)
+
+I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
 
 <br>
 
@@ -28,19 +30,19 @@ This is my personal homepage, you can browse through my:
 
 ## Working in...
 
-Currently working as a trainer @ Matrice.io in Full-Stack web developement bootcamp for a public in reconversion
+My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Paris) in Full-Stack web developement bootcamp for a public in reconversion (with a great team !). [Here](https://github.com/Matrice-io) you can find some of the educational resources that I designed.
 
 <br>
 
 ## I usually work in...
 
-**Contract type**: Fixed-term, Freelance, or permanent contract
+**Contract type**: Fixed-term, Freelance, or permanent contrac
 
 <br>
 
 ## Side-projects
 
-Organisations: [Cappuccino](https://github.com/cppccn/cppccn.github.io/blob/main/README.md) and [Passtech]()
+Organisations: [Cappuccino](https://github.com/cppccn/cppccn.github.io/blob/main/README.md)
 
 Some current work in those organisations:
 
@@ -62,9 +64,3 @@ Some current work in those organisations:
 - [A Memory Game](https://nicolashov.github.io/memory_react_fruits/)  - React (functionnal) & NodeJs (for High Scores - not live yet) - June 2021
 
 <br>
-
-##### [OLD] :
-
-- [Revamp of the website The Hacking Project](https://www.thehackingproject.org/) - Ruby On Rails & Now UI (based on Bootstrap 4) - January 2018
-
-- [Projet Lonepod - fun](https://nicolashov.github.io/lonepod/#svg) - JavaScript - June 2017

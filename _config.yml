@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://NicolasHov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon: @nicolasho@hachyderm.io
+mastodon: '@nicolasho@hachyderm.io'
 github_username: NicolasHov
 
 # Build settings

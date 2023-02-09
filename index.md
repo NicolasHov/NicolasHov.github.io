@@ -15,7 +15,7 @@ This is my personal homepage, you can browse through my:
 
 ## Get to know me...
 
-[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me)
+[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me) / [Mastodon](https://hachyderm.io/@Nicolas_ho)
 
 I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
 

@@ -17,6 +17,11 @@ This is my personal homepage, you can browse through my:
 
 [Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me) / [Mastodon](https://hachyderm.io/@Nicolas_ho)
 
+
+I'm mostly a Javascript developer (ReactJS, RN, ExpressJS, Ts, NodeJS) 
+
+I'm also curious about new languages like Rust and new tools like NixOS
+
 I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
 
 <br>

@@ -4,13 +4,6 @@
 layout: home
 js: jquery.min
 ---
-<script src="{{ base.url | prepend: site.url }}/assets/js/script.js"></script> 
-<!-- {% if script.js %}
-  {% for js_file in script.js %}
-  <script src='{{ site.baseurl }}/assets/js/{{ js_file }}.js' type="text/javascript"></script>
-  {% endfor %}
-{% endif %} -->
-
 
 This is my personal homepage, you can browse through my:
 

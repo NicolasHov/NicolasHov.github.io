@@ -8,9 +8,10 @@ permalink: /cv/
 
 - 20022..2023 [Moved to Brussels, Belgium]
 
-- 2021..2022 (15 months) Paris, **Trainer @ Matrice.io** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility).[See website](https://matrice.io/ecole/fullstack)
+- 2021..2022 (15 months) Paris, **Trainer @ [Matrice.io](https://matrice.io/ecole/fullstack)** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility). The final project of one team of my students can be seen [here (with mobile view)](https://haikuz.lfcyou.com) and the [code source here](https://github.com/loukansif/haikuz/tree/dev).
+<!-- https://youtu.be/MPApUq8bo30?t=428 -->
 
-- 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program [The final project of one of my students](https://youtu.be/MPApUq8bo30?t=428)
+- 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program.
 
 - 2020..2021 (3 months) Paris, **Freelancer @ Instant Visio** Development of a skype-like WebApp [See details](https://github.com/Instant-Visio/InstantVisio-WebApp/issues?q=author%3ANicolasHov+)
 
@@ -45,7 +46,9 @@ permalink: /cv/
 
 <br>
 
-## Technical skills
+## Skills
+
+Technical skills:
 
 - **Languages**: Javascript••• TypeScript•• Python•• Rust•
 
@@ -61,13 +64,16 @@ permalink: /cv/
 
 - **Tooling**: Git Common CLI UNIX tools••• Postman•• Jest• 
 
-<br>
+Soft skills:
 
- Others :
+- **Agility**: Agile development environment•• Scrum•• Github Workflow••
+
+
+ Others:
 
 - **NoCode Tools**: Airtable•• Notion•• Zapier• Bubble•
 
-- **Pedagogical environments**: App Inventor••• Thunkable••• Raspberry•
+- **Pedagogical environments**: App Inventor••• Thunkable••• Raspberry••
 
 <br>
 
@@ -75,4 +81,6 @@ permalink: /cv/
 
 - **Spoken and written languages** Français••• langue maternelle, English••• fluent
 
-- **Associations** Les Déterminés (entrepreneuriat pour tous.tes) - 2020, Intermèdes Robinson (Action sociale) 2014
+- **Open Source**: Interest in Open Source projects communities and meetings (like Fosdem in Brussels)
+
+- **Volunteer**: 'Les Déterminés' (entrepreneuriat pour tous.tes) - 2020

@@ -66,7 +66,7 @@ Technical skills:
 
 Soft skills:
 
-- **Agility**: Agile development environment•• Scrum•• Github Workflow••
+- **Agility**: Agile development environment•• Scrum•• Github Workflow•• TDD•
 
 
  Others:

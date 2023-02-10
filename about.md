@@ -83,4 +83,4 @@ Soft skills:
 
 - **Open Source**: Interest in Open Source projects communities and meetings (like Fosdem in Brussels)
 
-- **Volunteer**: 'Les Déterminés' (entrepreneuriat pour tous.tes) - 2020
+- **Volunteer**: 'OXO Collectif' (#feminism #vicariantstress) - 2023, 'Les Déterminés' (#entrepreneurshipforall #urbanareas) - 2020

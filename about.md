@@ -26,6 +26,8 @@ permalink: /cv/
 
 - 2019..2021 (18 months) Paris, **Founder and CEO @ PassTech** Development of a recommandation tool to helps students find their bootcamp. Incubated @ Schoolab for 6 months
 
+- 2018 (3months) **Freelancer @ Aniapps** Development of a SaaS for NGO - Ruby on Rails
+
 - 2017 (10 months) Montreuil, **Trainer @ Simplon.co** Creation of first syllabus and co-management of a 8-months training in web developement with Java framework Spring Boot for a public in reconversion
 
 - 2016 (2 years **intership** & 6 months **salary**) Montreuil, **Animator & Trainer @ Magic Makers** Animation and education design of fun learning workshops for programming in school and out-of-school settings
@@ -45,6 +47,10 @@ permalink: /cv/
 - 2008 **Aix-Marseille Université** Licence 1,  Applied Mathematics & Social Sciences
 
 <br>
+
+## Certifications
+
+- 2018 (3 months) **The Hacking Project** Coding Bootcamp on Ruby On Rails. [See their cursus](https://www.thehackingproject.org/parcours/developpeur-web-fullstack)
 
 ## Skills
 

@@ -70,10 +70,10 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 
 |Name          |Stack                                     |Description |
 |--------------|-----------------------------------------|------|
-|[Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) | **Rust** | 📝 ¬A rust static site generator|
+|[Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) | **Rust** | 📝 A rust static site generator|
 |[Mouchetasse](https://github.com/NicolasHov/mouchetasse) | **TypeScript** | 🪰☕️ Minimalist templating tool for TypeScript :{ |
 |[Nix configuration files](https://github.com/NicolasHov/nixfiles) | **Nix** | My personal NixOS configuration on my Thinkpad.|
-|[Rust server](https://github.com/NicolasHov/rust-server) | **Rust** | ¬A multithread rust server|
+|[Rust server](https://github.com/NicolasHov/rust-server) | **Rust** | A multithread rust server|
 |<br>|||
 |Older projects:|||
 |[Memory Game](https://nicolashov.github.io/memory_react_fruits/)  | **React**| With **NodeJs** for High Scores (not live) |
@@ -81,7 +81,7 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 |[Tiramisu](https://github.com/cppccn/trms) | **PReact**, **ParcelJS**, **Rust** | There is a big bunch of Note taking app, let's make the one that fit |
 |<br>|||
 |Startup **Passtech**: ||A recommendation tool to find the Bootcamp that fit your goals:|
-| [Map](https://github.com/3615passtech/map) | **Javascript** | ¬A map of bootcamps
+| [Map](https://github.com/3615passtech/map) | **Javascript** | A map of bootcamps
 | [API Map](https://github.com/3615passtech/api.map) | **Javascript** | The API used in Map
 |[Bot](https://github.com/3615passtech/bip-bop-bip-bot) | **Ruby** | A bot that gives you recommandation
 | [LP Passtech](https://github.com/3615passtech/3615passtech.github.io) | **Webpack** & **Sass** | Landing Page

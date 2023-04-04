@@ -48,15 +48,25 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 
 ## Side-projects
 
-Organisations: [Cappuccino](https://github.com/cppccn/cppccn.github.io/blob/main/README.md)
+Current projects:
 
-Some current work in those organisations:
+- [Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) - Rust - 📝 A rust static site generator
 
-- [Tiramisu](https://github.com/cppccn/trms) - PReact, ParcelJS, Rust - There is a big bunch of Note taking app, let's make the one that fit our needs
+- [Mouchetasse](https://github.com/NicolasHov/mouchetasse) - TypeScript - 🪰☕️ Minimalist templating tool for TypeScript :{ 
+
+- [Nix configuration files](https://github.com/NicolasHov/nixfiles) - Nix - My personal NixOS configuration on my Thinkpad.
+
+- [Rust server](https://github.com/NicolasHov/rust-server) - Rust - A multithread rust server
+
+Old stuff:
 
 - [Vignette](https://github.com/newtype256/vignette) - ExpressJS - Let’s have a web preview of a given URL
 
+- [Tiramisu](https://github.com/cppccn/trms) - PReact, ParcelJS, Rust - There is a big bunch of Note taking app, let's make the one that fit our needs
+
 - Passtech: A recommendation tool to find the Bootcamp that fit your goals
+
+Older stuff:
 
   - [Map](https://github.com/3615passtech/map) - Javascript - A map of bootcamps
   - [API Map](https://github.com/3615passtech/api.map) - Javascript - The API used in Map

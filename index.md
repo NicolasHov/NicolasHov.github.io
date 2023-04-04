@@ -61,11 +61,11 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 
 ## Side-projects
 
-<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="50" height="(0">
-<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="50" height="50">
-<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="50" height="50">
-<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="50" height="50">
-<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="50" height="50">
+<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
+<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
 
 *1/ My current projects:*
 

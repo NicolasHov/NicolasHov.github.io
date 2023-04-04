@@ -7,11 +7,15 @@ js: jquery.min
 
 This is my personal homepage, you can browse through my:
 
-[Curriculum Vitae](https://nicolashov.github.io/cv/)
+- [Curriculum Vitae](https://nicolashov.github.io/cv/)
 
-[Softwares repositories](https://github.com/NicolasHov?tab=repositories)
+- [Softwares repositories](https://github.com/NicolasHov?tab=repositories)
+
+and my side projects are below
 
 <br>
+
+-----
 
 ## Get to know me...
 
@@ -34,10 +38,16 @@ I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
 
 <br>
 
+-----
+<br>
+
 ## Working in...
 
 My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Paris) in Full-Stack web developement bootcamp for a public in reconversion (with a great team !). [Here](https://github.com/Matrice-io) you can find some of the educational resources that I designed.
 
+<br>
+
+-----
 <br>
 
 ## I usually work in...
@@ -46,37 +56,44 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 
 <br>
 
-## Side-projects
-
-Current projects:
-
-- [Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) - Rust - 📝 A rust static site generator
-
-- [Mouchetasse](https://github.com/NicolasHov/mouchetasse) - TypeScript - 🪰☕️ Minimalist templating tool for TypeScript :{ 
-
-- [Nix configuration files](https://github.com/NicolasHov/nixfiles) - Nix - My personal NixOS configuration on my Thinkpad.
-
-- [Rust server](https://github.com/NicolasHov/rust-server) - Rust - A multithread rust server
-
-Old stuff:
-
-- [Vignette](https://github.com/newtype256/vignette) - ExpressJS - Let’s have a web preview of a given URL
-
-- [Tiramisu](https://github.com/cppccn/trms) - PReact, ParcelJS, Rust - There is a big bunch of Note taking app, let's make the one that fit our needs
-
-- Passtech: A recommendation tool to find the Bootcamp that fit your goals
-
-Older stuff:
-
-  - [Map](https://github.com/3615passtech/map) - Javascript - A map of bootcamps
-  - [API Map](https://github.com/3615passtech/api.map) - Javascript - The API used in Map
-  - [Bot](https://github.com/3615passtech/bip-bop-bip-bot) - Ruby - A bot that gives you recommandation
-  - [LP Passtech](https://github.com/3615passtech/3615passtech.github.io) - Webpack & Sass - Landing Page
-
+----
 <br>
 
-## Games
+## Side-projects
 
-- [A Memory Game](https://nicolashov.github.io/memory_react_fruits/)  - React (functionnal) & NodeJs (for High Scores - not live yet) - June 2021
+<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="50" height="(0">
+<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="50" height="50">
+<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="50" height="50">
+<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="50" height="50">
+<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="50" height="50">
+
+*1/ My current projects:*
+
+- [Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) - **Rust** - 📝 A rust static site generator
+
+- [Mouchetasse](https://github.com/NicolasHov/mouchetasse) - **TypeScript** - 🪰☕️ Minimalist templating tool for TypeScript :{ 
+
+- [Nix configuration files](https://github.com/NicolasHov/nixfiles) - **Nix** - My personal NixOS configuration on my Thinkpad.
+
+- [Rust server](https://github.com/NicolasHov/rust-server) - **Rust** - A multithread rust server
+
+
+
+*2/ Last years projects:*
+
+- [A Memory Game](https://nicolashov.github.io/memory_react_fruits/)  - **React** (functionnal) & **NodeJs** (for High Scores - not live yet) - June 2021
+
+- [Vignette](https://github.com/newtype256/vignette) - **ExpressJS** - Let’s have a web preview of a given URL
+
+- [Tiramisu](https://github.com/cppccn/trms) - **PReact**, **ParcelJS**, **Rust** - There is a big bunch of Note taking app, let's make the one that fit our needs
+
+
+*3/ Older stuff:*
+
+- Passtech: A recommendation tool to find the Bootcamp that fit your goals:
+  - [Map](https://github.com/3615passtech/map) - **Javascript** - A map of bootcamps
+  - [API Map](https://github.com/3615passtech/api.map) - **Javascript** - The API used in Map
+  - [Bot](https://github.com/3615passtech/bip-bop-bip-bot) - **Ruby** - A bot that gives you recommandation
+  - [LP Passtech](https://github.com/3615passtech/3615passtech.github.io) - **Webpack** & **Sass** - Landing Page
 
 <br>

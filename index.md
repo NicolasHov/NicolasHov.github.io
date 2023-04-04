@@ -45,7 +45,7 @@ I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
 
 My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Paris) in Full-Stack web developement bootcamp for a public in reconversion. [Here](https://github.com/Matrice-io) you can find some of the educational resources that I designed.
 
-Before that I worked on the development of the game [Gao & Blaze](https://gaoandblaze.org/), an educative mobile VideoGame about Privacy helping users handle their personal data [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
+Before that I worked on different development projects such as game [Gao & Blaze](https://gaoandblaze.org/), an educative mobile VideoGame about Privacy helping users handle their personal data [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
 
 <br>
 

@@ -67,33 +67,23 @@ My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Par
 <img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
 <img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
 
-*1/ My current projects:*
 
-- [Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) - **Rust** - 📝 A rust static site generator
-
-- [Mouchetasse](https://github.com/NicolasHov/mouchetasse) - **TypeScript** - 🪰☕️ Minimalist templating tool for TypeScript :{ 
-
-- [Nix configuration files](https://github.com/NicolasHov/nixfiles) - **Nix** - My personal NixOS configuration on my Thinkpad.
-
-- [Rust server](https://github.com/NicolasHov/rust-server) - **Rust** - A multithread rust server
-
-
-
-*2/ Last years projects:*
-
-- [A Memory Game](https://nicolashov.github.io/memory_react_fruits/)  - **React** (functionnal) & **NodeJs** (for High Scores - not live yet) - June 2021
-
-- [Vignette](https://github.com/newtype256/vignette) - **ExpressJS** - Let’s have a web preview of a given URL
-
-- [Tiramisu](https://github.com/cppccn/trms) - **PReact**, **ParcelJS**, **Rust** - There is a big bunch of Note taking app, let's make the one that fit our needs
-
-
-*3/ Older stuff:*
-
-- Passtech: A recommendation tool to find the Bootcamp that fit your goals:
-  - [Map](https://github.com/3615passtech/map) - **Javascript** - A map of bootcamps
-  - [API Map](https://github.com/3615passtech/api.map) - **Javascript** - The API used in Map
-  - [Bot](https://github.com/3615passtech/bip-bop-bip-bot) - **Ruby** - A bot that gives you recommandation
-  - [LP Passtech](https://github.com/3615passtech/3615passtech.github.io) - **Webpack** & **Sass** - Landing Page
-
+|Name          |Stack                                     |Description |
+|--------------|-----------------------------------------|------|
+|[Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) | **Rust** | 📝 ¬A rust static site generator|
+|[Mouchetasse](https://github.com/NicolasHov/mouchetasse) | **TypeScript** | 🪰☕️ Minimalist templating tool for TypeScript :{ |
+|[Nix configuration files](https://github.com/NicolasHov/nixfiles) | **Nix** | My personal NixOS configuration on my Thinkpad.|
+|[Rust server](https://github.com/NicolasHov/rust-server) | **Rust** | ¬A multithread rust server|
+|<br>|||
+|Older projects:|||
+|[Memory Game](https://nicolashov.github.io/memory_react_fruits/)  | **React**| With **NodeJs** for High Scores (not live) |
+|[Vignette](https://github.com/newtype256/vignette) | **ExpressJS** | Let’s have a web preview of a given URL|
+|[Tiramisu](https://github.com/cppccn/trms) | **PReact**, **ParcelJS**, **Rust** | There is a big bunch of Note taking app, let's make the one that fit |
+|<br>|||
+|Startup **Passtech**: ||A recommendation tool to find the Bootcamp that fit your goals:|
+| [Map](https://github.com/3615passtech/map) | **Javascript** | ¬A map of bootcamps
+| [API Map](https://github.com/3615passtech/api.map) | **Javascript** | The API used in Map
+|[Bot](https://github.com/3615passtech/bip-bop-bip-bot) | **Ruby** | A bot that gives you recommandation
+| [LP Passtech](https://github.com/3615passtech/3615passtech.github.io) | **Webpack** & **Sass** | Landing Page
+ 
 <br>

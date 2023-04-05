@@ -4,7 +4,8 @@
 layout: home
 js: jquery.min
 ---
-
+ 
+ 
 ## I'm a confirmed **Javascript** developer and trainer who also happens to be a **Rust** enthusiast
 
 ## Based in **Brussels**, Belgium 🇧🇪

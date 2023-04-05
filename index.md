@@ -4,30 +4,20 @@
 layout: home
 js: jquery.min
 ---
-  
-<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
-<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg"  width="80" height="80">
-<img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"  width="65" height="65">
-...
 
-## I am a **Javascript** developer who also likes working with **Rust**
-## And I have **teaching** experience (*fullstack*)
+## I'm a confirmed **Javascript** developer and trainer who also happens to be a **Rust** enthusiast
 
-## I'm French 🇫🇷 and living in **Brussels**, Belgium 🇧🇪
+## Based in **Brussels**, Belgium 🇧🇪
 
 <br>
 
 ## This is my personal homepage, you can browse through my:
 
-- [Curriculum Vitae](https://nicolashov.github.io/cv/)
+## - [Curriculum Vitae](https://nicolashov.github.io/cv/)
 
-- [Softwares repositories](https://github.com/NicolasHov?tab=repositories)
+## - [Softwares repositories](https://github.com/NicolasHov?tab=repositories)
 
-- and my side projects are below...
+## - and my side projects are below...
 
 <br>
 
@@ -37,6 +27,15 @@ js: jquery.min
 
 ## Get to know me...
 
+
+<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
+<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg"  width="80" height="80">
+<img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"  width="65" height="65">
+...
 
 I'm mostly a **Javascript** developer **(ReactJS, RN, ExpressJS, Ts, NodeJS)**
 

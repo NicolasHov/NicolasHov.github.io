@@ -5,36 +5,53 @@ layout: home
 js: jquery.min
 ---
 
-This is my personal homepage, you can browse through my:
+# I am a **Javascript** developer who also likes working with **Rust** and I have *teaching* experience (*fullstack*)
+
+<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
+<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg"  width="80" height="80">
+<img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"  width="65" height="65">
+
+<br>
+
+## I'm French 🇫🇷 and living in **Brussels**, Belgium 🇧🇪
+
+<br>
+
+## This is my personal homepage, you can browse through my:
 
 - [Curriculum Vitae](https://nicolashov.github.io/cv/)
 
 - [Softwares repositories](https://github.com/NicolasHov?tab=repositories)
 
-and my side projects are below
+- and my side projects are below...
 
 <br>
 
 -----
 
+<br>
+
 ## Get to know me...
 
-[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me) / [Mastodon](https://hachyderm.io/@Nicolas_ho)
 
+I'm mostly a **Javascript** developer **(ReactJS, RN, ExpressJS, Ts, NodeJS)**
 
-I'm mostly a Javascript developer (ReactJS, RN, ExpressJS, Ts, NodeJS) 
+I'm also curious about new languages like **Rust** and new tools like **NixOS**
 
-I'm also curious about new languages like Rust and new tools like NixOS
+I have more than 3+ years of experience as a teacher (on the **MERN stack** in particular)
 
-I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
+I also have worked with **Ruby On Rails**
 
 <br>
 
-### And my work ...
+## Contact me...
 
-[GitHub](https://github.com/NicolasHov) / [GitLab](https://gitlab.com/NicolasHov)
+[Calendly](https://calendly.com/hovart-nicolas/) / [Mail](mailto:nicolas@hovart.me) / [Mastodon](https://hachyderm.io/@Nicolas_ho) / +33 6 58 06 69 95
 
-[SSH key](https://github.com/NicolasHov.keys)
 
 <br>
 
@@ -43,9 +60,9 @@ I'm french 🇫🇷 but currently living in Brussels, Belgium 🇧🇪
 
 ## Working in...
 
-My last job was trainer @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Paris) in Full-Stack web developement bootcamp for a public in reconversion. [Here](https://github.com/Matrice-io) you can find some of the educational resources that I designed.
+My last job was **trainer** @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Paris) in Full-Stack web developement bootcamp for a public in reconversion. [Here](https://github.com/Matrice-io) you can find some of the educational resources that I designed.
 
-Before that I worked on different development projects such as game [Gao & Blaze](https://gaoandblaze.org/), an educative mobile VideoGame about Privacy helping users handle their personal data [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
+Before that I worked on different **development** projects such as game [Gao & Blaze](https://gaoandblaze.org/), an educative mobile VideoGame about Privacy helping users handle their personal data [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
 
 <br>
 
@@ -61,14 +78,7 @@ Before that I worked on different development projects such as game [Gao & Blaze
 ----
 <br>
 
-## My side-projects
-
-<img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
-<img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
-<img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
-
+## My side-projects...
 
 |Name          |Stack                                     |Description |
 |--------------|-----------------------------------------|------|
@@ -87,5 +97,12 @@ Before that I worked on different development projects such as game [Gao & Blaze
 | [API Map](https://github.com/3615passtech/api.map) | **Javascript** | The API used in Map
 |[Bot](https://github.com/3615passtech/bip-bop-bip-bot) | **Ruby** | A bot that gives you recommandation
 | [LP Passtech](https://github.com/3615passtech/3615passtech.github.io) | **Webpack** & **Sass** | Landing Page
- 
+
 <br>
+
+### Find more of my work ...
+
+[GitHub](https://github.com/NicolasHov) / [GitLab](https://gitlab.com/NicolasHov)
+
+[SSH key](https://github.com/NicolasHov.keys)
+

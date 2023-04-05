@@ -5,7 +5,7 @@ layout: home
 js: jquery.min
 ---
 
-# I am a **Javascript** developer who also likes working with **Rust** and I have *teaching* experience (*fullstack*)
+## I am a **Javascript** developer who also likes working with **Rust** and I have *teaching* experience (*fullstack*)
 
 <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
 <img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
@@ -14,8 +14,6 @@ js: jquery.min
 <img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
 <img src="https://www.logo.wine/a/logo/MongoDB/MongoDB-Logo.wine.svg"  width="80" height="80">
 <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"  width="65" height="65">
-
-<br>
 
 ## I'm French 🇫🇷 and living in **Brussels**, Belgium 🇧🇪
 

@@ -11,22 +11,25 @@ permalink: /cv/
 - 2021..2022 (15 months) Paris, **Trainer @ [Matrice.io](https://matrice.io/ecole/fullstack)** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility). The final project of one team of my students can be seen [here (with mobile view)](https://haikuz.lfcyou.com) and the [code source here](https://github.com/loukansif/haikuz/tree/dev).
 <!-- https://youtu.be/MPApUq8bo30?t=428 -->
 
+- 2020..2021 Paris, **Software Architecture and Development** **[newtype](https://newtype.fr/)** (part of the cooperative [Omnicite](https://omnicite.fr/)). Some of the projects I maintained are open-source:
+
+    - **La Boussole** Development of an educative mobile VideoGame about Privacy helping users handle their personal data [See game](https://gaoandblaze.org/). [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
+
+    - **Instant Visio** Development of a skype-like WebApp. [See some issues](https://github.com/Instant-Visio/InstantVisio-WebApp/issues?q=author%3ANicolasHov+)
+
+
 - 2020..2021 (8 months) **Mentor @ Openclassrooms** Mentoring on Web development program & Front-End program.
-
-- 2020..2021 (3 months) Paris, **Freelancer @ Instant Visio** Development of a skype-like WebApp [See details](https://github.com/Instant-Visio/InstantVisio-WebApp/issues?q=author%3ANicolasHov+)
-
-- 2020..2021 (6 months) Paris, **Freelancer @ La Boussole** Development of an educative mobile VideoGame about Privacy helping users handle their personal data [See game](https://gaoandblaze.org/) [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
-(Freelancing in the working group [newtype()](https://newtype.fr/) of the coop [P//](https://portparallele.com/))
 
 - 2020 (3 months) Paris, **Freelancer @ Isograd** Researcher for the development of the company's certification offer
 
-- 2019..2021 Paris, **Freelancer (Teaching fondamentals in Web Development, UX, Algo) @ Digital College/CNAM/OpenClassrooms/IESA Multimédia/Les Descodeuses**
+- 2019..2021 Paris, **Teaching fondamentals in Web Development, UX, Algo, Organization of hackathon @ Freelancer** Among my clients:
+Digital College, CNAM, OpenClassrooms, IESA Multimédia,Association Les Descodeuses, Association OnVaEssayer
 
 - 2019 (4 months) Paris, **COO @ Coeur De Logement** Growth development strategy
 
 - 2019..2021 (18 months) Paris, **Founder and CEO @ PassTech** Development of a recommandation tool to helps students find their bootcamp. Incubated @ Schoolab for 6 months
 
-- 2018 (3months) **Freelancer @ Aniapps** Development of a SaaS for NGO - Ruby on Rails
+- 2018 (3months) **Freelancer @ Aniapps** Development of a SaaS for Mairie de Paris - Ruby on Rails
 
 - 2017 (10 months) Montreuil, **Trainer @ Simplon.co** Creation of first syllabus and co-management of a 8-months training in web developement with Java framework Spring Boot for a public in reconversion
 

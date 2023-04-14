@@ -33,7 +33,7 @@ Digital College, CNAM, OpenClassrooms, IESA Multimédia,Association Les Descodeu
 
 - 2017 (10 months) Montreuil, **Trainer @ Simplon.co** Creation of first syllabus and co-management of a 8-months training in web developement with Java framework Spring Boot for a public in reconversion
 
-- 2016 (2 years **intership** & 6 months **salary**) Montreuil, **Animator & Trainer @ Magic Makers** Animation and education design of fun learning workshops for programming in school and out-of-school settings
+- 2016 (2 years **internship** & 6 months **salary**) Montreuil, **Animator & Trainer @ Magic Makers** Animation and education design of fun learning workshops for programming in school and out-of-school settings
 
 - 2015 (6 months) Les Ulis, **Mathematic Teacher @ middle School of Les Ulis** Management of 3 classes
 

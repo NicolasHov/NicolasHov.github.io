@@ -29,7 +29,7 @@ Digital College, CNAM, OpenClassrooms, IESA Multimédia,Association Les Descodeu
 
 - 2019..2021 (18 months) Paris, **Founder and CEO @ PassTech** Development of a recommandation tool to helps students find their bootcamp. Incubated @ Schoolab for 6 months
 
-- 2018 (3months) **Freelancer @ Aniapps** Development of a SaaS for Mairie de Paris - Ruby on Rails
+- 2018 (6 months) **Freelancer @ Aniapps** Development of a SaaS for Mairie de Paris - Ruby on Rails
 
 - 2017 (10 months) Montreuil, **Trainer @ Simplon.co** Creation of first syllabus and co-management of a 8-months training in web developement with Java framework Spring Boot for a public in reconversion
 

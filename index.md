@@ -83,6 +83,8 @@ Before that I worked on different **development** projects such as game [Gao & B
 
 |Name          |Stack                                     |Description |
 |--------------|-----------------------------------------|------|
+|[Wasm and Rust - Meetup slides](https://nicolashov.github.io/wasm-with-rust-slides/) | **WASM & Rust** | 🕸️ My slides for the meetup "Rust on Web" that I organized at BeCentral, Brussels|
+|[Axolotlsay](https://github.com/NicolasHov/bloggy-golbba) | **Rust** | 🦥 A CLI to display your message in the terminal|
 |[Bloggy Golbba](https://github.com/NicolasHov/bloggy-golbba) | **Rust** | 📝 A rust static site generator|
 |[Mouchetasse](https://github.com/NicolasHov/mouchetasse) | **TypeScript** | 🪰☕️ Minimalist templating tool for TypeScript :{ |
 |[Nix configuration files](https://github.com/NicolasHov/nixfiles) | **Nix** | My personal NixOS configuration on my Thinkpad.|

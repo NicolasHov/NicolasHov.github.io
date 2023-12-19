@@ -6,9 +6,9 @@ permalink: /cv/
 
 ## Contracts Jobs
 
-- 20022..2023 [Moved to Brussels, Belgium]
+- 20022..2023 Brussels, **trainer** @ [Becode.org](https://becode.org/all-trainings/pedagogical-framework-junior-developer/) (Brussels) in a Full-Stack web developement bootcamp for a public in reconversion.
 
-- 2021..2022 (15 months) Paris, **Trainer @ [Matrice.io](https://matrice.io/ecole/fullstack)** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility). The final project of one team of my students can be seen [here (with mobile view)](https://haikuz.lfcyou.com) and the [code source here](https://github.com/loukansif/haikuz/tree/dev).
+- 2021..2022 (15 months) Paris, **Trainer @ [Matrice.io](https://matrice.io/ecole/fullstack)** Creation and management of a 3-months training in Full-Stack web developement for a public in professional retraining (NodeJs, framework ExpressJs, React Js, database with Sequelize, developer tools, best practices, agility). The final project of one team of my students can be seen [here (with mobile view)](https://haikuz.lfcyou.com) and the [code source here](https://github.com/loukansif/haikuz/tree/dev). Check also the [no-code version](https://kuzi.io/) with the DB 
 <!-- https://youtu.be/MPApUq8bo30?t=428 -->
 
 - 2020..2021 Paris, **Software Architecture and Development** **[newtype](https://newtype.fr/)** (part of the cooperative [Omnicite](https://omnicite.fr/)). Some of the projects I maintained are open-source:

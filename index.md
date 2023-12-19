@@ -32,6 +32,8 @@ js: jquery.min
 
 <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg"  width="70" height="(0">
 <img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg"  width="70" height="70">
+<img src="https://www.logo.wine/a/logo/Vue.js/Vue.js-Logo.wine.svg"  width="70" height="70">
+<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png"  width="70" height="70">
 <img src="https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg"  width="70" height="70">
 <img src="https://www.logo.wine/a/logo/Rust_(programming_language)/Rust_(programming_language)-Logo.wine.svg"  width="70" height="70">
 <img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="70" height="70">
@@ -39,7 +41,7 @@ js: jquery.min
 <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"  width="65" height="65">
 ...
 
-I'm mostly a **Javascript** developer **(ReactJS, RN, ExpressJS, Ts, NodeJS)**
+I'm mostly a **Javascript** developer **(ReactJS, RN, VueJS, NextJS, Ts, NodeJS)**
 
 I'm also curious about new languages like **Rust** and new tools like **NixOS**
 
@@ -61,7 +63,7 @@ I also have worked with **Ruby On Rails**
 
 ## Working in...
 
-My last job was **trainer** @ [Matrice.io](https://matrice.io/ecole/fullstack/) (Paris) in Full-Stack web developement bootcamp for a public in reconversion. [Here](https://github.com/Matrice-io) you can find some of the educational resources that I designed.
+I'm a **trainer** @ [Becode.org](https://becode.org/all-trainings/pedagogical-framework-junior-developer/) (Brussels) in Full-Stack web developement bootcamp for a public in reconversion.
 
 Before that I worked on different **development** projects such as game [Gao & Blaze](https://gaoandblaze.org/), an educative mobile VideoGame about Privacy helping users handle their personal data [See code](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username=NicolasHov)
 
